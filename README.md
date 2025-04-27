@@ -61,10 +61,13 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
 - 🎓 **BTech in Computer Science & Engineering (Data Science Specialization)**  
   Amity University (2022–2026)
+
+- 📜 **Certifications**
+  - IBM Data Science Professional Certificate (Coursera)
 
 ---
 
